@@ -1,7 +1,7 @@
 {
   "name": "my-react-router-app",
   "private": true,
-  "homepage": "https://gitname.github.io/wordle",
+  "homepage": "https://samratsuzil.github.io",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
