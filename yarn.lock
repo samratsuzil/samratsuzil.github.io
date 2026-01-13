@@ -567,10 +567,17 @@
   dependencies:
     "@react-router/node" "7.8.2"
 
-"@react-router/node@7.8.2", "@react-router/node@^7.7.1":
+"@react-router/node@7.8.2":
   version "7.8.2"
   resolved "https://registry.yarnpkg.com/@react-router/node/-/node-7.8.2.tgz#7d7612ac62e47d30f57c42d8d126094fd629a226"
   integrity sha512-FNepNg4Aya6V0ZxD/+uObtqxtMXcsBGa0ax9PznUh5qr8g4M6Xo9IN+soLb1tghz6iS/F9djFyhJ/lDkF77dEw==
+  dependencies:
+    "@mjackson/node-fetch-server" "^0.2.0"
+
+"@react-router/node@^7.9.4":
+  version "7.9.4"
+  resolved "https://registry.yarnpkg.com/@react-router/node/-/node-7.9.4.tgz#6c1a566c8e808b52cc96ad053767984e01419994"
+  integrity sha512-sdeDNRaqAB71BR2hPlhcQbPbrXh8uGJUjLVc+NpRiPsQbv6B8UvIucN4IX9YGVJkw3UxVQBn2vPSwxACAck32Q==
   dependencies:
     "@mjackson/node-fetch-server" "^0.2.0"
 
